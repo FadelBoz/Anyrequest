@@ -1,0 +1,1358 @@
+{
+    "data": {
+        "name": "Any request",
+        "description": "Any requestCould you fill out this survey to help us serve you better ?",
+        "questions": [
+            {
+                "questionType": "ratingNumber",
+                "questionOrder": 0,
+                "questionId": 1747732794159,
+                "answerDetails": {},
+                "questionDetails": {
+                    "name": "A quel échelle aimes-tu les voitures ?",
+                    "shapeType": 5,
+                    "shapeCount": 5,
+                    "label": "A quel échelle aimes-tu les voitures ?",
+                    "isRequired": false,
+                    "options": [
+                        {
+                            "label": "ONE",
+                            "value": 1
+                        },
+                        {
+                            "label": "TWO",
+                            "value": 2
+                        },
+                        {
+                            "label": "THREE",
+                            "value": 3
+                        },
+                        {
+                            "label": "FOUR",
+                            "value": 4
+                        },
+                        {
+                            "label": "FIVE",
+                            "value": 5
+                        }
+                    ],
+                    "questions": null,
+                    "containLogic": false,
+                    "logicBuilder": []
+                }
+            },
+            {
+                "questionType": "multipleChoice",
+                "questionOrder": 1,
+                "questionId": 1747732794160,
+                "answerDetails": {},
+                "questionDetails": {
+                    "name": "Qu'elle sont tes couleur préféré ?",
+                    "shapeType": 0,
+                    "shapeCount": 0,
+                    "label": "Qu'elle sont tes couleur préféré ?",
+                    "isRequired": false,
+                    "options": [
+                        {
+                            "label": "Jaune",
+                            "value": "jaune",
+                            "shortcut": ""
+                        },
+                        {
+                            "label": "Orange",
+                            "value": "orange",
+                            "shortcut": ""
+                        },
+                        {
+                            "label": "noire",
+                            "value": "noire",
+                            "shortcut": ""
+                        },
+                        {
+                            "value": "bleu",
+                            "label": "bleu"
+                        }
+                    ],
+                    "questions": null,
+                    "containLogic": false,
+                    "logicBuilder": []
+                }
+            },
+            {
+                "questionType": "select",
+                "questionOrder": 2,
+                "questionId": 1747732794161,
+                "answerDetails": {},
+                "questionDetails": {
+                    "name": "Choisi une voiture de sport",
+                    "shapeType": 0,
+                    "shapeCount": 0,
+                    "label": "Choisi une voiture de sport",
+                    "isRequired": false,
+                    "options": [
+                        {
+                            "label": "Nissan GTR",
+                            "value": "nissanGtr"
+                        },
+                        {
+                            "value": "porsche911",
+                            "label": "Porsche 911"
+                        },
+                        {
+                            "value": "porscheGt3Rs",
+                            "label": "Porsche GT3Rs"
+                        },
+                        {
+                            "value": "mustangGtd",
+                            "label": "Mustang GTD"
+                        },
+                        {
+                            "value": "mustangShelbyGt500",
+                            "label": "Mustang Shelby GT500"
+                        }
+                    ],
+                    "questions": null,
+                    "containLogic": false,
+                    "logicBuilder": []
+                }
+            },
+            {
+                "questionType": "singleChoice",
+                "questionOrder": 3,
+                "questionId": 1747732794162,
+                "answerDetails": {},
+                "questionDetails": {
+                    "name": "Tu es dans quel team ",
+                    "shapeType": 0,
+                    "shapeCount": 0,
+                    "label": "Tu es dans quel team ",
+                    "isRequired": false,
+                    "options": [
+                        {
+                            "label": "V8",
+                            "value": "v8"
+                        },
+                        {
+                            "label": "V12",
+                            "value": "v12"
+                        },
+                        {
+                            "label": "V6",
+                            "value": "v6"
+                        }
+                    ],
+                    "questions": null,
+                    "containLogic": false,
+                    "logicBuilder": []
+                }
+            },
+            {
+                "questionType": "yesorno",
+                "questionOrder": 4,
+                "questionId": 1747732794163,
+                "answerDetails": {},
+                "questionDetails": {
+                    "name": "Avez vous aimé les questions posé ci-dessus",
+                    "shapeType": 0,
+                    "shapeCount": 0,
+                    "label": "Avez vous aimé les questions posé ci-dessus",
+                    "isRequired": false,
+                    "options": [
+                        {
+                            "label": "Yes",
+                            "value": 1
+                        },
+                        {
+                            "label": "No",
+                            "value": 2
+                        }
+                    ],
+                    "questions": null,
+                    "containLogic": false,
+                    "logicBuilder": []
+                }
+            },
+            {
+                "questionType": "ratingStar",
+                "questionOrder": 5,
+                "questionId": 1747732794164,
+                "answerDetails": {},
+                "questionDetails": {
+                    "name": "Note sur une échelle de 1 à 5 étoile  les questions posé ci-dessus  ",
+                    "shapeType": 1,
+                    "shapeCount": 5,
+                    "label": "Note sur une échelle de 1 à 5 étoile  les questions posé ci-dessus  ",
+                    "isRequired": false,
+                    "options": [
+                        {
+                            "label": "1 star",
+                            "value": 1
+                        },
+                        {
+                            "label": "2 stars",
+                            "value": 2
+                        },
+                        {
+                            "label": "3 stars",
+                            "value": 3
+                        },
+                        {
+                            "label": "4 stars",
+                            "value": 4
+                        },
+                        {
+                            "label": "5 stars",
+                            "value": 5
+                        }
+                    ],
+                    "questions": null,
+                    "containLogic": false,
+                    "logicBuilder": []
+                }
+            },
+            {
+                "questionType": "ratingHeart",
+                "questionOrder": 6,
+                "questionId": 1747732794165,
+                "answerDetails": {},
+                "questionDetails": {
+                    "name": "Même chose",
+                    "shapeType": 2,
+                    "shapeCount": 5,
+                    "label": "Même chose",
+                    "isRequired": false,
+                    "options": [
+                        {
+                            "label": "1 heart",
+                            "value": 1
+                        },
+                        {
+                            "label": "2 hearts",
+                            "value": 2
+                        },
+                        {
+                            "label": "3 hearts",
+                            "value": 3
+                        },
+                        {
+                            "label": "4 hearts",
+                            "value": 4
+                        },
+                        {
+                            "label": "5 hearts",
+                            "value": 5
+                        }
+                    ],
+                    "questions": null,
+                    "containLogic": false,
+                    "logicBuilder": []
+                }
+            },
+            {
+                "questionType": "ratingFire",
+                "questionOrder": 7,
+                "questionId": 1747732794166,
+                "answerDetails": {},
+                "questionDetails": {
+                    "name": "A quel point est tu enthousiasmes quant on parle de voiture",
+                    "shapeType": 3,
+                    "shapeCount": 5,
+                    "label": "A quel point est tu enthousiasmes quant on parle de voiture",
+                    "isRequired": false,
+                    "options": [
+                        {
+                            "label": "1 fire",
+                            "value": 1
+                        },
+                        {
+                            "label": "2 fires",
+                            "value": 2
+                        },
+                        {
+                            "label": "3 fires",
+                            "value": 3
+                        },
+                        {
+                            "label": "4 fires",
+                            "value": 4
+                        },
+                        {
+                            "label": "5 fires",
+                            "value": 5
+                        }
+                    ],
+                    "questions": null,
+                    "containLogic": false,
+                    "logicBuilder": []
+                }
+            },
+            {
+                "questionType": "ratingEmojis",
+                "questionOrder": 8,
+                "questionId": 1747732794167,
+                "answerDetails": {},
+                "questionDetails": {
+                    "name": "T'es comment quant on parle de tesla ?",
+                    "shapeType": 4,
+                    "shapeCount": 5,
+                    "label": "T'es comment quant on parle de tesla ?",
+                    "isRequired": false,
+                    "options": [
+                        {
+                            "label": "EXTREMELY DISSATISFIED",
+                            "value": 1
+                        },
+                        {
+                            "label": "SOMEWHAT DISSATISFIED",
+                            "value": 2
+                        },
+                        {
+                            "label": "NEUTRAL",
+                            "value": 3
+                        },
+                        {
+                            "label": "SOMEWHAT SATISFIED",
+                            "value": 4
+                        },
+                        {
+                            "label": "EXTREMELY SATISFIED",
+                            "value": 5
+                        }
+                    ],
+                    "questions": null,
+                    "containLogic": false,
+                    "logicBuilder": []
+                }
+            }
+        ],
+        "status": 1,
+        "entrypoint": "formio",
+        "userId": "a3bff8e4-8d80-4e4a-b3be-4f2e74687d07",
+        "type": "formbuilder",
+        "subType": "",
+        "templateType": null,
+        "form_data": [
+            {
+                "validate": {
+                    "required": false,
+                    "custom": "",
+                    "customPrivate": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "unique": false,
+                    "onlyAvailableItems": false
+                },
+                "label": "A quel échelle aimes-tu les voitures ?",
+                "optionsLabelPosition": "right",
+                "description": "<p>test</p>",
+                "hidden": false,
+                "hideLabel": false,
+                "autofocus": false,
+                "disabled": false,
+                "conditional": {
+                    "show": null,
+                    "when": null,
+                    "eq": ""
+                },
+                "logic": [],
+                "type": "ratingNumber",
+                "input": true,
+                "key": "ratingNumber",
+                "placeholder": "",
+                "prefix": "",
+                "customClass": "",
+                "suffix": "",
+                "multiple": false,
+                "defaultValue": null,
+                "protected": false,
+                "unique": false,
+                "persistent": true,
+                "clearOnHide": true,
+                "refreshOn": "",
+                "redrawOn": "",
+                "tableView": false,
+                "modalEdit": false,
+                "dataGridLabel": false,
+                "labelPosition": "top",
+                "errorLabel": "",
+                "tooltip": "",
+                "tabindex": "",
+                "dbIndex": false,
+                "customDefaultValue": "",
+                "calculateValue": "",
+                "calculateServer": false,
+                "widget": null,
+                "attributes": {},
+                "validateOn": "change",
+                "overlay": {
+                    "style": "",
+                    "left": "",
+                    "top": "",
+                    "width": "",
+                    "height": ""
+                },
+                "allowCalculateOverride": false,
+                "encrypted": false,
+                "showCharCount": false,
+                "showWordCount": false,
+                "properties": {},
+                "allowMultipleMasks": false,
+                "addons": [],
+                "dataSrc": "values",
+                "authenticate": false,
+                "ignoreCache": false,
+                "template": "<span>{{ item.label }}</span>",
+                "inputType": "radio",
+                "inline": true,
+                "values": [
+                    {
+                        "label": "ONE",
+                        "value": 1
+                    },
+                    {
+                        "label": "TWO",
+                        "value": 2
+                    },
+                    {
+                        "label": "THREE",
+                        "value": 3
+                    },
+                    {
+                        "label": "FOUR",
+                        "value": 4
+                    },
+                    {
+                        "label": "FIVE",
+                        "value": 5
+                    }
+                ],
+                "data": {
+                    "url": ""
+                },
+                "fieldSet": false,
+                "id": "ecq58uo"
+            },
+            {
+                "validate": {
+                    "required": false,
+                    "custom": "",
+                    "customPrivate": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "unique": false,
+                    "onlyAvailableItems": false
+                },
+                "label": "Qu'elle sont tes couleur préféré ?",
+                "description": "<p>test de choix</p>",
+                "inline": true,
+                "hidden": false,
+                "hideLabel": false,
+                "autofocus": false,
+                "disabled": false,
+                "conditional": {
+                    "show": null,
+                    "when": null,
+                    "eq": ""
+                },
+                "logic": [],
+                "type": "multipleChoice",
+                "values": [
+                    {
+                        "label": "Jaune",
+                        "value": "jaune",
+                        "shortcut": ""
+                    },
+                    {
+                        "label": "Orange",
+                        "value": "orange",
+                        "shortcut": ""
+                    },
+                    {
+                        "label": "noire",
+                        "value": "noire",
+                        "shortcut": ""
+                    },
+                    {
+                        "value": "bleu",
+                        "label": "bleu"
+                    }
+                ],
+                "input": true,
+                "key": "multipleChoice",
+                "placeholder": "",
+                "prefix": "",
+                "customClass": "",
+                "suffix": "",
+                "multiple": false,
+                "defaultValue": null,
+                "protected": false,
+                "unique": false,
+                "persistent": true,
+                "clearOnHide": true,
+                "refreshOn": "",
+                "redrawOn": "",
+                "tableView": false,
+                "modalEdit": false,
+                "dataGridLabel": false,
+                "labelPosition": "top",
+                "errorLabel": "",
+                "tooltip": "",
+                "tabindex": "",
+                "dbIndex": false,
+                "customDefaultValue": "",
+                "calculateValue": "",
+                "calculateServer": false,
+                "widget": null,
+                "attributes": {},
+                "validateOn": "change",
+                "overlay": {
+                    "style": "",
+                    "left": "",
+                    "top": "",
+                    "width": "",
+                    "height": ""
+                },
+                "allowCalculateOverride": false,
+                "encrypted": false,
+                "showCharCount": false,
+                "showWordCount": false,
+                "properties": {},
+                "allowMultipleMasks": false,
+                "addons": [],
+                "dataSrc": "values",
+                "authenticate": false,
+                "ignoreCache": false,
+                "template": "<span>{{ item.label }}</span>",
+                "inputType": "checkbox",
+                "data": {
+                    "url": ""
+                },
+                "fieldSet": false,
+                "id": "egjqrht"
+            },
+            {
+                "validate": {
+                    "required": false,
+                    "onlyAvailableItems": false,
+                    "custom": "",
+                    "customPrivate": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "unique": false
+                },
+                "label": "Choisi une voiture de sport",
+                "widget": "choicesjs",
+                "placeholder": "Bolide ",
+                "description": "<p>teste de choix</p>",
+                "hidden": false,
+                "hideLabel": false,
+                "autofocus": false,
+                "disabled": false,
+                "conditional": {
+                    "show": null,
+                    "when": null,
+                    "eq": ""
+                },
+                "logic": [],
+                "data": {
+                    "resource": "",
+                    "values": [
+                        {
+                            "label": "Nissan GTR",
+                            "value": "nissanGtr"
+                        },
+                        {
+                            "value": "porsche911",
+                            "label": "Porsche 911"
+                        },
+                        {
+                            "value": "porscheGt3Rs",
+                            "label": "Porsche GT3Rs"
+                        },
+                        {
+                            "value": "mustangGtd",
+                            "label": "Mustang GTD"
+                        },
+                        {
+                            "value": "mustangShelbyGt500",
+                            "label": "Mustang Shelby GT500"
+                        }
+                    ],
+                    "json": "",
+                    "custom": "",
+                    "url": ""
+                },
+                "dataType": "",
+                "idPath": "id",
+                "searchEnabled": true,
+                "selectThreshold": 0.3,
+                "readOnlyValue": false,
+                "customOptions": {},
+                "useExactSearch": false,
+                "type": "select",
+                "indexeddb": {
+                    "filter": {}
+                },
+                "dataSrc": "values",
+                "valueProperty": "",
+                "selectFields": "",
+                "searchField": "",
+                "searchDebounce": 0.3,
+                "minSearch": 0,
+                "filter": "",
+                "limit": 100,
+                "refreshOn": "",
+                "clearOnRefresh": false,
+                "input": true,
+                "key": "select",
+                "prefix": "",
+                "customClass": "",
+                "suffix": "",
+                "multiple": false,
+                "defaultValue": null,
+                "protected": false,
+                "unique": false,
+                "persistent": true,
+                "clearOnHide": true,
+                "redrawOn": "",
+                "tableView": true,
+                "modalEdit": false,
+                "dataGridLabel": false,
+                "labelPosition": "top",
+                "errorLabel": "",
+                "tooltip": "",
+                "tabindex": "",
+                "dbIndex": false,
+                "customDefaultValue": "",
+                "calculateValue": "",
+                "calculateServer": false,
+                "attributes": {},
+                "validateOn": "change",
+                "overlay": {
+                    "style": "",
+                    "left": "",
+                    "top": "",
+                    "width": "",
+                    "height": ""
+                },
+                "allowCalculateOverride": false,
+                "encrypted": false,
+                "showCharCount": false,
+                "showWordCount": false,
+                "properties": {},
+                "allowMultipleMasks": false,
+                "addons": [],
+                "authenticate": false,
+                "ignoreCache": false,
+                "template": "<span>{{ item.label }}</span>",
+                "lazyLoad": true,
+                "uniqueOptions": false,
+                "fuseOptions": {
+                    "include": "score",
+                    "threshold": 0.3
+                },
+                "id": "esz5059",
+                "refreshOnBlur": ""
+            },
+            {
+                "validate": {
+                    "required": false,
+                    "custom": "",
+                    "customPrivate": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "unique": false,
+                    "onlyAvailableItems": false
+                },
+                "label": "Tu es dans quel team ",
+                "description": "<p>teste de chox</p>",
+                "inline": true,
+                "hidden": false,
+                "hideLabel": false,
+                "autofocus": false,
+                "disabled": false,
+                "conditional": {
+                    "show": null,
+                    "when": null,
+                    "eq": ""
+                },
+                "logic": [],
+                "type": "radio",
+                "values": [
+                    {
+                        "label": "V8",
+                        "value": "v8"
+                    },
+                    {
+                        "label": "V12",
+                        "value": "v12"
+                    },
+                    {
+                        "label": "V6",
+                        "value": "v6"
+                    }
+                ],
+                "input": true,
+                "key": "singleChoice",
+                "placeholder": "",
+                "prefix": "",
+                "customClass": "",
+                "suffix": "",
+                "multiple": false,
+                "defaultValue": null,
+                "protected": false,
+                "unique": false,
+                "persistent": true,
+                "clearOnHide": true,
+                "refreshOn": "",
+                "redrawOn": "",
+                "tableView": false,
+                "modalEdit": false,
+                "dataGridLabel": false,
+                "labelPosition": "top",
+                "errorLabel": "",
+                "tooltip": "",
+                "tabindex": "",
+                "dbIndex": false,
+                "customDefaultValue": "",
+                "calculateValue": "",
+                "calculateServer": false,
+                "widget": null,
+                "attributes": {},
+                "validateOn": "change",
+                "overlay": {
+                    "style": "",
+                    "left": "",
+                    "top": "",
+                    "width": "",
+                    "height": ""
+                },
+                "allowCalculateOverride": false,
+                "encrypted": false,
+                "showCharCount": false,
+                "showWordCount": false,
+                "properties": {},
+                "allowMultipleMasks": false,
+                "addons": [],
+                "dataSrc": "values",
+                "authenticate": false,
+                "ignoreCache": false,
+                "template": "<span>{{ item.label }}</span>",
+                "inputType": "radio",
+                "data": {
+                    "url": ""
+                },
+                "fieldSet": false,
+                "valueProperty": "value",
+                "valueType": "string",
+                "id": "eo4xx8c"
+            },
+            {
+                "validate": {
+                    "required": false,
+                    "custom": "",
+                    "customPrivate": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "unique": false,
+                    "onlyAvailableItems": false
+                },
+                "label": "Avez vous aimé les questions posé ci-dessus",
+                "description": "<p>teste</p>",
+                "hidden": false,
+                "hideLabel": false,
+                "autofocus": false,
+                "disabled": false,
+                "conditional": {
+                    "show": null,
+                    "when": null,
+                    "eq": ""
+                },
+                "logic": [],
+                "type": "yesorno",
+                "input": true,
+                "key": "yesorno",
+                "placeholder": "",
+                "prefix": "",
+                "customClass": "",
+                "suffix": "",
+                "multiple": false,
+                "defaultValue": null,
+                "protected": false,
+                "unique": false,
+                "persistent": true,
+                "clearOnHide": true,
+                "refreshOn": "",
+                "redrawOn": "",
+                "tableView": false,
+                "modalEdit": false,
+                "dataGridLabel": false,
+                "labelPosition": "top",
+                "errorLabel": "",
+                "tooltip": "",
+                "tabindex": "",
+                "dbIndex": false,
+                "customDefaultValue": "",
+                "calculateValue": "",
+                "calculateServer": false,
+                "widget": null,
+                "attributes": {},
+                "validateOn": "change",
+                "overlay": {
+                    "style": "",
+                    "left": "",
+                    "top": "",
+                    "width": "",
+                    "height": ""
+                },
+                "allowCalculateOverride": false,
+                "encrypted": false,
+                "showCharCount": false,
+                "showWordCount": false,
+                "properties": {},
+                "allowMultipleMasks": false,
+                "addons": [],
+                "dataSrc": "values",
+                "authenticate": false,
+                "ignoreCache": false,
+                "template": "<span>{{ item.label }}</span>",
+                "inputType": "radio",
+                "inline": true,
+                "values": [
+                    {
+                        "label": "Yes",
+                        "value": 1
+                    },
+                    {
+                        "label": "No",
+                        "value": 2
+                    }
+                ],
+                "data": {
+                    "url": ""
+                },
+                "fieldSet": false,
+                "id": "e9rc1rr"
+            },
+            {
+                "validate": {
+                    "required": false,
+                    "custom": "",
+                    "customPrivate": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "unique": false,
+                    "onlyAvailableItems": false
+                },
+                "label": "Note sur une échelle de 1 à 5 étoile  les questions posé ci-dessus  ",
+                "description": "<p>teste</p>",
+                "hidden": false,
+                "hideLabel": false,
+                "autofocus": false,
+                "disabled": false,
+                "conditional": {
+                    "show": null,
+                    "when": null,
+                    "eq": ""
+                },
+                "logic": [],
+                "type": "ratingStar",
+                "input": true,
+                "key": "ratingStar",
+                "placeholder": "",
+                "prefix": "",
+                "customClass": "",
+                "suffix": "",
+                "multiple": false,
+                "defaultValue": null,
+                "protected": false,
+                "unique": false,
+                "persistent": true,
+                "clearOnHide": true,
+                "refreshOn": "",
+                "redrawOn": "",
+                "tableView": false,
+                "modalEdit": false,
+                "dataGridLabel": false,
+                "labelPosition": "top",
+                "errorLabel": "",
+                "tooltip": "",
+                "tabindex": "",
+                "dbIndex": false,
+                "customDefaultValue": "",
+                "calculateValue": "",
+                "calculateServer": false,
+                "widget": null,
+                "attributes": {},
+                "validateOn": "change",
+                "overlay": {
+                    "style": "",
+                    "left": "",
+                    "top": "",
+                    "width": "",
+                    "height": ""
+                },
+                "allowCalculateOverride": false,
+                "encrypted": false,
+                "showCharCount": false,
+                "showWordCount": false,
+                "properties": {},
+                "allowMultipleMasks": false,
+                "addons": [],
+                "dataSrc": "values",
+                "authenticate": false,
+                "ignoreCache": false,
+                "template": "<span>{{ item.label }}</span>",
+                "inputType": "radio",
+                "inline": true,
+                "values": [
+                    {
+                        "label": "1 star",
+                        "value": 1
+                    },
+                    {
+                        "label": "2 stars",
+                        "value": 2
+                    },
+                    {
+                        "label": "3 stars",
+                        "value": 3
+                    },
+                    {
+                        "label": "4 stars",
+                        "value": 4
+                    },
+                    {
+                        "label": "5 stars",
+                        "value": 5
+                    }
+                ],
+                "data": {
+                    "url": ""
+                },
+                "fieldSet": false,
+                "id": "etu0uci"
+            },
+            {
+                "validate": {
+                    "required": false,
+                    "custom": "",
+                    "customPrivate": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "unique": false,
+                    "onlyAvailableItems": false
+                },
+                "label": "Même chose",
+                "optionsLabelPosition": "right",
+                "description": "<p>test</p>",
+                "hidden": false,
+                "hideLabel": false,
+                "autofocus": false,
+                "disabled": false,
+                "conditional": {
+                    "show": null,
+                    "when": null,
+                    "eq": ""
+                },
+                "logic": [],
+                "type": "ratingHeart",
+                "input": true,
+                "key": "ratingHeart",
+                "placeholder": "",
+                "prefix": "",
+                "customClass": "",
+                "suffix": "",
+                "multiple": false,
+                "defaultValue": null,
+                "protected": false,
+                "unique": false,
+                "persistent": true,
+                "clearOnHide": true,
+                "refreshOn": "",
+                "redrawOn": "",
+                "tableView": false,
+                "modalEdit": false,
+                "dataGridLabel": false,
+                "labelPosition": "top",
+                "errorLabel": "",
+                "tooltip": "",
+                "tabindex": "",
+                "dbIndex": false,
+                "customDefaultValue": "",
+                "calculateValue": "",
+                "calculateServer": false,
+                "widget": null,
+                "attributes": {},
+                "validateOn": "change",
+                "overlay": {
+                    "style": "",
+                    "left": "",
+                    "top": "",
+                    "width": "",
+                    "height": ""
+                },
+                "allowCalculateOverride": false,
+                "encrypted": false,
+                "showCharCount": false,
+                "showWordCount": false,
+                "properties": {},
+                "allowMultipleMasks": false,
+                "addons": [],
+                "dataSrc": "values",
+                "authenticate": false,
+                "ignoreCache": false,
+                "template": "<span>{{ item.label }}</span>",
+                "inputType": "radio",
+                "inline": true,
+                "values": [
+                    {
+                        "label": "1 heart",
+                        "value": 1
+                    },
+                    {
+                        "label": "2 hearts",
+                        "value": 2
+                    },
+                    {
+                        "label": "3 hearts",
+                        "value": 3
+                    },
+                    {
+                        "label": "4 hearts",
+                        "value": 4
+                    },
+                    {
+                        "label": "5 hearts",
+                        "value": 5
+                    }
+                ],
+                "data": {
+                    "url": ""
+                },
+                "fieldSet": false,
+                "id": "e14qf78"
+            },
+            {
+                "validate": {
+                    "required": false,
+                    "custom": "",
+                    "customPrivate": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "unique": false,
+                    "onlyAvailableItems": false
+                },
+                "label": "A quel point est tu enthousiasmes quant on parle de voiture",
+                "optionsLabelPosition": "right",
+                "description": "<p>test</p>",
+                "inline": true,
+                "hidden": false,
+                "hideLabel": false,
+                "autofocus": false,
+                "disabled": false,
+                "conditional": {
+                    "show": null,
+                    "when": null,
+                    "eq": ""
+                },
+                "logic": [],
+                "type": "ratingFire",
+                "input": true,
+                "key": "ratingFire",
+                "placeholder": "",
+                "prefix": "",
+                "customClass": "",
+                "suffix": "",
+                "multiple": false,
+                "defaultValue": null,
+                "protected": false,
+                "unique": false,
+                "persistent": true,
+                "clearOnHide": true,
+                "refreshOn": "",
+                "redrawOn": "",
+                "tableView": false,
+                "modalEdit": false,
+                "dataGridLabel": false,
+                "labelPosition": "top",
+                "errorLabel": "",
+                "tooltip": "",
+                "tabindex": "",
+                "dbIndex": false,
+                "customDefaultValue": "",
+                "calculateValue": "",
+                "calculateServer": false,
+                "widget": null,
+                "attributes": {},
+                "validateOn": "change",
+                "overlay": {
+                    "style": "",
+                    "left": "",
+                    "top": "",
+                    "width": "",
+                    "height": ""
+                },
+                "allowCalculateOverride": false,
+                "encrypted": false,
+                "showCharCount": false,
+                "showWordCount": false,
+                "properties": {},
+                "allowMultipleMasks": false,
+                "addons": [],
+                "dataSrc": "values",
+                "authenticate": false,
+                "ignoreCache": false,
+                "template": "<span>{{ item.label }}</span>",
+                "inputType": "radio",
+                "values": [
+                    {
+                        "label": "1 fire",
+                        "value": 1
+                    },
+                    {
+                        "label": "2 fires",
+                        "value": 2
+                    },
+                    {
+                        "label": "3 fires",
+                        "value": 3
+                    },
+                    {
+                        "label": "4 fires",
+                        "value": 4
+                    },
+                    {
+                        "label": "5 fires",
+                        "value": 5
+                    }
+                ],
+                "data": {
+                    "url": ""
+                },
+                "fieldSet": false,
+                "id": "ed04caft"
+            },
+            {
+                "validate": {
+                    "required": false,
+                    "custom": "",
+                    "customPrivate": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "unique": false,
+                    "onlyAvailableItems": false
+                },
+                "label": "T'es comment quant on parle de tesla ?",
+                "optionsLabelPosition": "right",
+                "description": "<p>test</p>",
+                "hidden": false,
+                "hideLabel": false,
+                "autofocus": false,
+                "disabled": false,
+                "conditional": {
+                    "show": null,
+                    "when": null,
+                    "eq": ""
+                },
+                "logic": [],
+                "type": "ratingEmojis",
+                "input": true,
+                "key": "ratingEmojis",
+                "placeholder": "",
+                "prefix": "",
+                "customClass": "",
+                "suffix": "",
+                "multiple": false,
+                "defaultValue": null,
+                "protected": false,
+                "unique": false,
+                "persistent": true,
+                "clearOnHide": true,
+                "refreshOn": "",
+                "redrawOn": "",
+                "tableView": false,
+                "modalEdit": false,
+                "dataGridLabel": false,
+                "labelPosition": "top",
+                "errorLabel": "",
+                "tooltip": "",
+                "tabindex": "",
+                "dbIndex": false,
+                "customDefaultValue": "",
+                "calculateValue": "",
+                "calculateServer": false,
+                "widget": null,
+                "attributes": {},
+                "validateOn": "change",
+                "overlay": {
+                    "style": "",
+                    "left": "",
+                    "top": "",
+                    "width": "",
+                    "height": ""
+                },
+                "allowCalculateOverride": false,
+                "encrypted": false,
+                "showCharCount": false,
+                "showWordCount": false,
+                "properties": {},
+                "allowMultipleMasks": false,
+                "addons": [],
+                "dataSrc": "values",
+                "authenticate": false,
+                "ignoreCache": false,
+                "template": "<span>{{ item.label }}</span>",
+                "inputType": "radio",
+                "inline": true,
+                "values": [
+                    {
+                        "label": "EXTREMELY DISSATISFIED",
+                        "value": 1
+                    },
+                    {
+                        "label": "SOMEWHAT DISSATISFIED",
+                        "value": 2
+                    },
+                    {
+                        "label": "NEUTRAL",
+                        "value": 3
+                    },
+                    {
+                        "label": "SOMEWHAT SATISFIED",
+                        "value": 4
+                    },
+                    {
+                        "label": "EXTREMELY SATISFIED",
+                        "value": 5
+                    }
+                ],
+                "data": {
+                    "url": ""
+                },
+                "fieldSet": false,
+                "id": "e5ws3a"
+            },
+            {
+                "type": "button",
+                "label": "Submit",
+                "key": "submit",
+                "size": "md",
+                "block": false,
+                "action": "submit",
+                "disableOnInvalid": true,
+                "theme": "primary",
+                "id": "eppdxs",
+                "input": true,
+                "placeholder": "",
+                "prefix": "",
+                "customClass": "",
+                "suffix": "",
+                "multiple": false,
+                "defaultValue": null,
+                "protected": false,
+                "unique": false,
+                "persistent": false,
+                "hidden": false,
+                "clearOnHide": true,
+                "refreshOn": "",
+                "redrawOn": "",
+                "tableView": false,
+                "modalEdit": false,
+                "dataGridLabel": true,
+                "labelPosition": "top",
+                "description": "",
+                "errorLabel": "",
+                "tooltip": "",
+                "hideLabel": false,
+                "tabindex": "",
+                "disabled": false,
+                "autofocus": false,
+                "dbIndex": false,
+                "customDefaultValue": "",
+                "calculateValue": "",
+                "calculateServer": false,
+                "widget": {
+                    "type": "input"
+                },
+                "attributes": {},
+                "validateOn": "change",
+                "validate": {
+                    "required": false,
+                    "custom": "",
+                    "customPrivate": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "unique": false
+                },
+                "conditional": {
+                    "show": null,
+                    "when": null,
+                    "eq": ""
+                },
+                "overlay": {
+                    "style": "",
+                    "left": "",
+                    "top": "",
+                    "width": "",
+                    "height": ""
+                },
+                "allowCalculateOverride": false,
+                "encrypted": false,
+                "showCharCount": false,
+                "showWordCount": false,
+                "properties": {},
+                "allowMultipleMasks": false,
+                "addons": [],
+                "leftIcon": "",
+                "rightIcon": ""
+            }
+        ],
+        "settings": {
+            "pagination": true,
+            "progressRate": true,
+            "preventMultiSubmission": false,
+            "welcomeMessage": false,
+            "connectRightdesk": false,
+            "language": "en",
+            "rightdeskData": {
+                "priority": 0
+            },
+            "hasCustomWelcomeMessage": false,
+            "hasCustomThankyouMessage": false,
+            "hasCustomTermsCondition": false,
+            "hasCustomSurveyLogo": false,
+            "hasReceipient": false,
+            "receipientEmailIds": [],
+            "enableIntroPage": {
+                "status": true,
+                "showContact": true
+            },
+            "welcomemessage": {
+                "option": "default",
+                "heading_text": "",
+                "message": ""
+            },
+            "surveylogo": {
+                "link": "",
+                "display_size_option": "",
+                "position": ""
+            },
+            "thankyoumessage": {
+                "name": "thank you",
+                "properties": {
+                    "option": "default",
+                    "image": "",
+                    "message": "",
+                    "heading_text": ""
+                }
+            },
+            "displayFormat": "both"
+        },
+        "viewid": "aigrh4vwqf77szgqo22zygsusso5rj",
+        "updated_at": "2025-05-20T09:21:40",
+        "publickey": "john_doe",
+        "total_respondent": 0,
+        "answers": []
+    }
+}
