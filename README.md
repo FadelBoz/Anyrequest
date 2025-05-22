@@ -6,4 +6,7 @@ mettez les deux fichier
 -HomeScreen.js
 "
 Dans un dossier que vous allez nommer de toute lettre "screens"
+Copiez tous les fichier ".png" et le ".json" dans un dossier que vous allez nommer "assets"
+
+ 
 
